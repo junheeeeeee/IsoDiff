@@ -66,7 +66,7 @@ python utils/cal_mean_std.py
 python train.py --name isodiff_example --dataset_name t2m --batch_size 64
 
 # eval IsDiff 
-python evaluation_MARDM.py --name isodiff_example --dataset_name t2m --cfg 4.5
+python evaluation.py --name isodiff_example --dataset_name t2m --cfg 4.5
 ```
 
 </details>
