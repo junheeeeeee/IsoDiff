@@ -1,5 +1,5 @@
 # IsoDiff: Resolving Structural and Semantic Bottlenecks in Text-to-Motion Generation
-
+![](./method.jpg)
 
 ##  ⚙️ Getting Started
 <details>
