@@ -62,10 +62,10 @@ python utils/cal_mean_std.py
 
 ## 🎆 Train and Evaluate
 ```bash
-# train IsDiff (best results)
+# train IsDiff 
 python train.py --name isodiff_example --dataset_name t2m --batch_size 64
 
-# eval IsDiff (best results)
+# eval IsDiff 
 python evaluation_MARDM.py --name isodiff_example --dataset_name t2m --cfg 4.5
 ```
 
