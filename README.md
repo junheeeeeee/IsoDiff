@@ -60,7 +60,7 @@ python utils/cal_mean_std.py
 ```
 </details>
 
-## 🎆 Train and Evaluate Your Own IsoDiff model
+## 🎆 Train and Evaluate
 ```bash
 # train IsDiff (best results)
 python train.py --name isodiff_example --dataset_name t2m --batch_size 64
