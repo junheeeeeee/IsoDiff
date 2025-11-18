@@ -70,3 +70,15 @@ python evaluation_MARDM.py --name isodiff_example --dataset_name t2m --cfg 4.5
 ```
 
 </details>
+
+## 🍀 Acknowledgments
+This code is standing on the shoulders of giants, we would like to thank the following contributors that our code is based on:.
+
+Our original raw implementation is heavily based on [T2M](https://github.com/EricGuo5513/text-to-motion),
+[T2M-GPT](https://github.com/Mael-zys/T2M-GPT), [MMM](https://github.com/exitudio/MMM), [MoMask](https://github.com/EricGuo5513/momask-codes) and [MARDM](https://github.com/neu-vi/MARDM).
+The Diffusion part is primarily based on [DDPM](https://github.com/hojonathanho/diffusion),
+[DiT](https://github.com/facebookresearch/DiT), [SiT](https://github.com/willisma/SiT),
+[MAR](https://github.com/LTH14/mar/), [HOI-Diff](https://github.com/neu-vi/HOI-Diff),
+[InterGen](https://github.com/tr3e/InterGen), [MDM](https://github.com/GuyTevet/motion-diffusion-model),
+[MLD](https://github.com/ChenFengYe/motion-latent-diffusion).
+
