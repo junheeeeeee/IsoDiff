@@ -79,6 +79,6 @@ Our original raw implementation is heavily based on [T2M](https://github.com/Eri
 The Diffusion part is primarily based on [DDPM](https://github.com/hojonathanho/diffusion),
 [DiT](https://github.com/facebookresearch/DiT), [SiT](https://github.com/willisma/SiT),
 [MAR](https://github.com/LTH14/mar/), [HOI-Diff](https://github.com/neu-vi/HOI-Diff),
-[InterGen](https://github.com/tr3e/InterGen), [MDM](https://github.com/GuyTevet/motion-diffusion-model),
+[InterGen](https://github.com/tr3e/InterGen), [MDM](https://github.com/GuyTevet/motion-diffusion-model) and
 [MLD](https://github.com/ChenFengYe/motion-latent-diffusion).
 
